@@ -1,0 +1,7 @@
+ Introducción
+ Parámetros y Argumentos.
+ Métodos tipo función.
+ Métodos tipo procedimiento.
+ Inicialización en la declaración
+ Recorrido del arreglo
+ Utilidades para el manejo de arreglos

@@ -1,0 +1,7 @@
+ ¿Qué es Java y para qué sirve?
+ JDK y JVM
+ IDE
+ Sintaxis
+ Bloques y Sentencias
+ Variables (Tipos, Identificación, Declaración y Asignación)
+ Operadores (Matemáticos, de asignación, Relacionales y Lógicos)
