@@ -1,0 +1,7 @@
+
+
+    Bifurcación if
+    Bifurcación if else
+    Bifurcación anidados
+    Bifurcación Switch
+    Operador Ternario (if reducido) 
